@@ -135,5 +135,13 @@ Hotkey list:
 | Right | → |
 
 Emoji:
+
 &#128511;
 Markup : [&#128511]
+=======
+&#128123;
+Markup : [&#128123]
+
+Friend:
+Karanthaphong Areerak 652115001 .__.
+
