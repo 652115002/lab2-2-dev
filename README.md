@@ -139,4 +139,4 @@ Emoji:
 Markup : [&#128123]
 
 Friend:
-Karanthaphong Areerak 652115001
+Karanthaphong Areerak 652115001 .__.
