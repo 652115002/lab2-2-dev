@@ -135,5 +135,5 @@ Hotkey list:
 | Right | → |
 
 Emoji:
-&#128123;
-Markup : [&#128123]
+&#128511;
+Markup : [&#128511]
